@@ -1,8 +1,10 @@
 # DrRacket Config
 
-[English](README.md) | [中文](README.zh-CN.md)
-
 为 DrRacket 提供现代化键绑定配置，支持 REPL 集成。提供 Emacs 风格的增量求值功能——无需离开编辑器即可将表达式和选区直接发送到 REPL。
+
+![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white) [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+[English](README.md) · **中文**
 
 ## 功能
 
@@ -20,7 +22,7 @@
 1. 克隆本仓库：
 
 ```bash
-git clone https://github.com/jrtxio/drracket-config.git
+git clone https://github.com/turinglambdaai/drracket-config.git
 ```
 
 2. 在 DrRacket 中：
@@ -60,4 +62,4 @@ git pull
 
 ## 许可证
 
-[MIT](LICENSE)
+基于 [MIT License](LICENSE) 开源。

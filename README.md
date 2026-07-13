@@ -1,9 +1,10 @@
 # DrRacket Config
 
-![Language](https://img.shields.io/badge/language-Racket-red) [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)  [![English](https://img.shields.io/badge/lang-English-blue)](README.md) [![中文](https://img.shields.io/badge/lang-中文-red)](README.zh-CN.md)
-
-
 Modern keybindings for DrRacket with REPL integration. Provides Emacs-style incremental evaluation — send expressions and selections directly to the REPL without leaving the editor.
+
+![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white) [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+**English** · [中文](README.zh-CN.md)
 
 ## Features
 
@@ -21,7 +22,7 @@ Modern keybindings for DrRacket with REPL integration. Provides Emacs-style incr
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/jrtxio/drracket-config.git
+git clone https://github.com/turinglambdaai/drracket-config.git
 ```
 
 2. In DrRacket:
@@ -61,4 +62,4 @@ Then restart DrRacket.
 
 ## License
 
-[MIT](LICENSE)
+Released under the [MIT License](LICENSE).
