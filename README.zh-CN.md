@@ -2,11 +2,11 @@
 
 为 DrRacket 提供现代化键绑定配置，支持 REPL 集成。提供 Emacs 风格的增量求值功能——无需离开编辑器即可将表达式和选区直接发送到 REPL。
 
-![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white) [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white) [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 [English](README.md) · **中文**
 
-## 功能
+## 功能特性
 
 - **发送代码到 REPL** — Emacs 风格的增量求值
   - 发送当前顶层表达式
@@ -15,20 +15,24 @@
 
 ## 环境要求
 
-- DrRacket 7.0 或更高版本
+| 依赖 | 用途 / 版本 |
+|------|-------------|
+| DrRacket | 7.0 或更高版本 |
 
-## 安装
+## 快速开始
 
-1. 克隆本仓库：
+### 1. 克隆
 
 ```bash
 git clone https://github.com/turinglambdaai/drracket-config.git
+cd drracket-config
 ```
 
-2. 在 DrRacket 中：
-   - 进入 **Edit** → **Keybindings** → **Add User-defined Keybindings...**
-   - 选择克隆目录中的 `drracket-keybindings.rkt`
-   - 重启 DrRacket
+### 2. 在 DrRacket 中加载键绑定
+
+- 进入 **Edit** → **Keybindings** → **Add User-defined Keybindings...**
+- 选择克隆目录中的 `drracket-keybindings.rkt`
+- 重启 DrRacket
 
 ## 快捷键
 
@@ -62,4 +66,4 @@ git pull
 
 ## 许可证
 
-基于 [MIT License](LICENSE) 开源。
+基于 [MIT 许可证](LICENSE) 授权。
