@@ -24,7 +24,7 @@ Modern keybindings for DrRacket with REPL integration. Provides Emacs-style incr
 ### 1. Clone
 
 ```bash
-git clone https://github.com/turinglambdaai/drracket-config.git
+git clone https://github.com/turlamai/drracket-config.git
 cd drracket-config
 ```
 
